@@ -1,0 +1,2 @@
+For IAM user creation step:
+https://docs.amplify.aws/javascript/tools/cli/start/set-up-cli/#configure-the-amplify-cli
